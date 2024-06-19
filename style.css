@@ -1,0 +1,120 @@
+.a{
+    border: 1px solid rgb(6, 180, 215);
+}
+
+.b{
+    border: 1px solid grey;
+}
+
+.c{
+    border: 1px solid green;
+}
+
+.d{
+    border: 1px solid red;
+}
+
+.e{
+    border: 1px solid yellow;
+}
+
+.f{
+    border: 1px solid cyan;
+}
+
+.g{
+    border: 1px solid rgba(128, 128, 128, 0.832);
+}
+
+.h{
+    border: 1px solid black;
+}
+
+.img{
+    display: inline;
+    width: 20px;
+    height: 20px;
+}
+
+.linea{
+    display: inline-flex;
+    background-color: rgb(6, 180, 215);
+  height: 15px;
+  width: 1px;
+  margin: auto;
+  
+
+}
+
+.lineb{
+    display: inline-flex;
+    background-color: grey;
+  height: 15px;
+  width: 1px;
+  margin: auto;
+  margin-right: 3px;
+  
+
+}
+.linec{
+    display: inline-flex;
+    background-color: green;
+  height: 15px;
+  width: 1px;
+  margin: auto;
+  margin-right: 3px;
+  
+
+}
+.lined{
+    display: inline-flex;
+    background-color: red;
+  height: 15px;
+  width: 1px;
+  margin: auto;
+  margin-right: 3px;
+  
+
+}
+.linee{
+    display: inline-flex;
+    background-color: yellow;
+  height: 15px;
+  width: 1px;
+  margin: auto;
+  margin-right: 3px;
+  
+
+}
+
+.linef{
+    display: inline-flex;
+    background-color: cyan;
+  height: 15px;
+  width: 1px;
+  margin: auto;
+  margin-right: 3px;
+  
+
+}
+.lineg{
+    display: inline-flex;
+    background-color: grey;
+  height: 15px;
+  width: 1px;
+  margin: auto;
+  margin-right: 3px;
+  
+
+}
+.lineh{
+    display: inline-flex;
+    background-color: black;
+  height: 15px;
+  width: 1px;
+  margin: auto;
+  margin-right: 3px;
+  
+
+}
+
